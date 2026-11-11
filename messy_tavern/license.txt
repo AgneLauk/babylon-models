@@ -1,0 +1,11 @@
+Model Information:
+* title:	Messy Tavern
+* source:	https://sketchfab.com/3d-models/messy-tavern-40736fa5298c4e738633c51be872c4b1
+* author:	Nadia Ribitis (https://sketchfab.com/ribitis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Messy Tavern" (https://sketchfab.com/3d-models/messy-tavern-40736fa5298c4e738633c51be872c4b1) by Nadia Ribitis (https://sketchfab.com/ribitis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

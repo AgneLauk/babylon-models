@@ -1,0 +1,11 @@
+Model Information:
+* title:	Musician Cucurrucucu
+* source:	https://sketchfab.com/3d-models/musician-cucurrucucu-f349a34377ce41a5988743ce360f5144
+* author:	orqgamer (https://sketchfab.com/orqgamer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Musician Cucurrucucu" (https://sketchfab.com/3d-models/musician-cucurrucucu-f349a34377ce41a5988743ce360f5144) by orqgamer (https://sketchfab.com/orqgamer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
